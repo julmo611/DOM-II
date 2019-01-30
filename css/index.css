@@ -194,6 +194,9 @@ img {
     padding-top: 10px;
   }
 }
+.main-navigation .nav-container .logo-heading {
+  cursor: pointer;
+}
 @media (max-width: 500px) {
   .main-navigation .nav-container .logo-heading {
     font-size: 3rem;
@@ -225,6 +228,9 @@ img {
   color: #212529;
   font-size: 1.6rem;
   padding: 20px;
+}
+#welcome-h2 {
+  cursor: pointer;
 }
 .home .intro {
   padding: 90px 0 10px;
